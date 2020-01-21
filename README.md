@@ -1,4 +1,4 @@
 # csharp
 
-* Calculator
-* Singleton design pattern
+[x] Calculator
+[x] Singleton design pattern
